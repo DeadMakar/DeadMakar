@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 ### Hi 👋 I`m Alex
 
@@ -35,4 +35,4 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-</center>
+</div>
