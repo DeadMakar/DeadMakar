@@ -28,13 +28,10 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeadMakar&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeadMakar&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeadMakar&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeadMakar&theme=solarized_dark)      ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeadMakar&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeadMakar&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeadMakar&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DeadMakar&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeadMakar&theme=solarized_dark)      ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DeadMakar&theme=solarized_dark)
 
 
 ---
