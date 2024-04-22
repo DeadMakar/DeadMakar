@@ -12,6 +12,11 @@
 - [LinkedIn](https://www.linkedin.com/in/aleksander-makarov-5407b5275/) 📌
 - [Telegram](https://t.me/Makaroff_A_M) 📞
 
+| **Linkedin**  | **Gmail** | **Telegram** |
+|:-:|:-:| :-: |
+| <p align="center" ><a href="https://www.linkedin.com/in/aleksander-makarov-5407b5275/" title="Linkedin"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/linkedin.svg" alt="Linkedin" width="40px" height="40px"></a> </p>  |  <p align="center" ><a href="mailto:ssapientiaa@gmail.com" title="Gmail"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/gmail.svg" alt="Gmail" width="40px" height="40px"></a> </p> | <p align="center" ><a href="https://t.me/Makaroff_A_M" title="Telegram"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/telegram.svg" alt="Telegram" width="40px" height="40px"></a> </p>  |
+   
+
 ---
 
 **💪🏻 Main skills:**
