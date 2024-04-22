@@ -1,10 +1,7 @@
-<div align="center" >
-Hi 👋 I`m Alex
-</div>
+### Hi 👋 I`m Alex
 
-<div align="center" >
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Full+Stack+Developer+from+Ukraine+ua+🙋🏻‍♀️)](https://git.io/typing-svg)
-</div>
+
 ---
 
 **📲 Contacts:**
@@ -24,6 +21,6 @@ Hi 👋 I`m Alex
 
 ---
 
-<div align="center" >
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeadMakar&show_icons=true&theme=dark)](https://github.com/DeadMakar/github-readme-stats)
-</div>
+
