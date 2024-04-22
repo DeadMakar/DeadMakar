@@ -24,3 +24,19 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeadMakar&show_icons=true&theme=dark)](https://github.com/DeadMakar/github-readme-stats)
 
+
+---
+Карточка профиля: 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeadMakar&theme=solarized_dark)
+
+Статистика языков в коммитах:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeadMakar&theme=solarized_dark)
+
+Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeadMakar&theme=solarized_dark)
+
+Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeadMakar&theme=solarized_dark)
+
+Данные по коммитам за сутки:
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DeadMakar&theme=solarized_dark)
